@@ -1,7 +1,7 @@
 ---
-title: 'Field Experiences in Natural Infrastructure'
-author: "UGA ENGR 8990"
-date: "October 23-26, 2025"
+title: 'Seminar on Nature-Based Solutions'
+author: "CUNY TBD"
+date: "Fall 2026"
 output: html_document
 ---
 
@@ -10,174 +10,78 @@ output: html_document
 ::: columns
 ::: {.column width="40%"}
 *What*:  
-UGA short course on natural infrastructure  
-[Course syllabus](UGA_NI_Field_Course_Syllabus_2025-09-15.pdf)
+A seminar-based course on nature-based solutions emphasizing exploration of peer-reviewed literature and field-based experiences
 
 *When*:  
-October 23-26, 2025  
-9:00-5:00 PM (daily)  
+Fall Semester 2026  
 
 *Instructors*:  
-[Dr. Brian Bledsoe](https://bledsoe.engr.uga.edu/brian-bledsoe/), Director, [Institute for Resilient Infrastructure Systems](https://iris.uga.edu/), University of Georgia  
+Dr. Brett Branco, Director, [Science and Resilience Institute at Jamaica Bay](https://srijb.org/), Brooklyn College  
 
 [Dr. Kyle McKay](https://skmckay.github.io/), Environmental Director, [Woolpert](https://woolpert.com/)  
 :::
 
 ::: {.column width="60%"}
 ```{r echo=FALSE}
-knitr::include_graphics("NEWN-fullcolor-horizontal.jpg")
+knitr::include_graphics("NBS_VanRees.png")
 ```
+
+Nature-based solutions are a spectrum of actions from more to less naturalized (Figure from Van Rees et al. 2023 PNAS).
 :::
 :::
 
 # **Course Overview**
 
-The course will cover various topics related to the planning, design, and execution of nature-based solutions for water resource management. Students will explore these topics through fieldwork components, engaging in hands-on activities and gaining practical experience. Field sites around Athens will be visited to observe and study the interaction of natural systems and infrastructure.  These activities aim to deepen understanding of concepts discussed in other UGA courses on natural infrastructure and bridge the gap between theoretical knowledge and real-world application. The course also offers a unique opportunity for students to collaborate with professionals, experts, and local stakeholders involved in diverse ecosystems. Safety protocols and guidelines will be provided to ensure the well-being of all participants during fieldwork. 
+Download the syllabus (**coming in 2026**).
+
+This seminar-based course will explore the growing use of nature-based solutions in cities, which are often proposed in the context of simultaneously managing multiple crises related to biodiversity loss, climate change, aging infrastructure, and inequity of natural hazards. Students will explore these topics through reading peer-reviewed literature, agency and project reports, and other resources on the subject. The instructors will guide the class through a critical examination of NBS and their efficacy for accomplishing societal goals, challenges in project execution, and scientific uncertainties. When possible, discussions will include practitioners working in this space, who can provide insights on career trajectories, personal experiences, and disciplinary expertise. This interdisciplinary-oriented course is intended for students from multiple disciplines including environmental sciences, physical sciences, ecology, environmental design, natural resources, marine sciences, anthropology, economics, engineering, and other relevant and related fields. Upon completion of this course, students will be able to:  
+
+- Define and describe nature-based solutions for addressing urban sustainability challenges.  
+- Understand the role of both ecological and built systems in cities.  
+- Critically analyze the complex interactions between natural systems and built infrastructure within the context of water resource management.  
+- Foster an interdisciplinary approach (and dialog) by integrating knowledge from diverse fields to enhance natural infrastructure practices.
 
 
-The approximate course schedule is shown below. However, all items are subject to change based on visitor availability, weather, and other factors. This intensive, four-day timeline will give us a great opportunity to see natural infrastructure features, but there will not be much time for reading. As such, we require and recommend the following references, which set the stage for getting the most out of our limited time together.
+# **Course Format**
 
-**Required reading**:  
+The course will emphasize two primary teach modalities. At least once in the semester, participants will attend a field trip to see projects in the New York City area. Discussion and socratic inquiry will be the primary teaching structure in the classroom, and each week will have roughly the following format.  
 
-- Booth, D.B. and Fischenich, C.J., 2015. A channel evolution model to guide sustainable urban stream restoration. Area, 47(4), pp.408-421. [pdf](https://faculty.washington.edu/dbooth/Booth%20and%20Fischenich_urban%20channel%20evolution%20model_Area%202015.pdf)  
-- Fischenich, C., 2008. The application of conceptual models to ecosystem restoration. Engineer Research and Development Center, Vicksburg, MS. [open access](https://apps.dtic.mil/sti/pdfs/ADA477865.pdf)  
-- Gregory, R.S. and Keeney, R.L., 2002. Making smarter environmental management decisions. Journal of the American Water Resources Association, 38(6), pp.1601-1612. [open access](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1752-1688.2002.tb04367.x)  
-- Hicks C.C., Levine A., Agrawal A., Basurto X., Breslow S.J., Carothers C/. Charnley S., Coulthard S., Dolsak N., Donatuto J., Garcia-Quijano C., Mas-cia M.B., Norman K., Poe M.R., Satterfield T., St. Martin K., and Levin P.S. 2016. Engage key social concepts for sustainability. Science, 352 (6281), 38-40. [pdf](https://www.fs.usda.gov/pnw/pubs/journals/pnw_2016_hicks001.pdf)  
-- Jackson, C.R., Wenger, S.J., Bledsoe, B.P., Shepherd, J.M., Capps, K.A., Rosemond, A.D., Paul, M.J., Welch‐Devine, M., Li, K., Stephens, T. and Rasmussen, T.C., 2023. Water supply, waste assimilation, and low‐flow issues facing the Southeast Piedmont Interstate‐85 urban archipelago. JAWRA Journal of the American Water Resources Association, 59(5), pp.1146-1161. [open access](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.13130)  
-- McKay S.K., Wenger S.J., van Rees C.B., Bledsoe B., and Bridges T.S. 2023. Jointly advancing infrastructure and biodiversity conservation. Nature Reviews Earth & Environment. https://doi.org/10.1038/s43017-023-00484-z. [pdf](https://skmckay.github.io/publications/McKay%20et%20al.%20-%202023%20-%20Biodiversity-Infrastructure.pdf)  
-- Palmer, M.A. and Febria, C.M., 2012. The heartbeat of ecosystems. Science, 336(6087), pp.1393-1394. [pdf](https://slunik.slu.se/kursfiler/PNG0057/P0019.1415/Palmer_heartbeat_ecosystems.pdf)  
+- Before class each week, students will read 2-3 assigned papers or reports on a focal subject related to nature-based solutions.  
+- A brief student-led presentation each week on a topic of their interest related to nature-based solutions (e.g., connections to their research, a case study of interest, a bio of an NBS figure that interests you, a career trajectory related to NBS, etc.).  
+- Students will lead and participate in a discussion of the assigned reading.  
+- Instructors will present on a current event related to NBS. These may include case studies, ongoing research briefs, visitors from other institutions, and/or important happenings in the field.  
+- The instructors will present a brief lecture to contextualize reading materials for the next week.
 
 
-**Recommended reading**:  
+# **Course Materials**
 
-- Cluer, B. and Thorne, C., 2014. A stream evolution model integrating habitat and ecosystem benefits. River Research and Applications, 30(2), pp.135-154.  
-- Doyle, M.W., Stanley, E.H., Havlick, D.G., Kaiser, M.J., Steinbach, G., Graf, W.L., Galloway, G.E. and Riggsbee, J.A., 2008. Aging infrastructure and ecosystem restoration. Science, 319(5861), pp.286-287.  
-- Jackson C.R., Martin J.K., Leigh D.S., and West L.T. 2005. A southeastern piedmont watershed sediment budget: Evidence for a multi-millennial agricultural legacy. Journal of Soil and Water Conservation, 60 (6), 298-310.  
-- Mace, G.M., 2014. Whose conservation?. Science, 345(6204), pp.1558-1560.  
+A variety of written materials will serve as the primary focal point for the class. Each week the instructors and participants will jointly explore these documents with the goal of identifying emergent themes around nature-based solutions. 
+
+**Background reading**:  
+
+- Bridges, T. S., J. K. King, J. D. Simm, M. W. Beck, G. Collins, Q. Lodder, and R. K. Mohan, eds. 2021. [International Guidelines on Natural and Nature‑Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/). Vicksburg, MS: U.S. Army Engineer Research and Development Center.  
+- McPhearson T., Kabisch N., and Frantzeskaki N.  2023. [Nature-based solutions for cities](https://urbansystemslab.com/nbs-for-cities). Edward Elgar Publishing, Northampton, Massachusetts. 
+
+
+**Potential Resources for Classroom Discussion**:  
+
+-  Anzelone M. and Silvera Seamans, G. (2025). Oaks, Our City, and Us: A Vision for Nature in New York City. NYC Biodiversity Task Force Report.  
+- Cook, E.M., Kim, Y., Grimm, N.B., McPhearson, T., Anderson, P., Bulkeley, H., Collier, M.J., Diep, L., Morató, J. and Zhou, W., 2025. Nature-based solutions for urban sustainability. Proceedings of the National Academy of Sciences, 122(29), p.e2315909122.  
+- Ding, H., and C. McLaren. 2025. Financial sector guidebook on nature-based solutions investment: Aligning investment with impacts and showcasing examples. Guidebook. Washington, DC: World Resources Institute. Available online at: https://doi.org/10.46830/wrigb.24.00043.  
+- González-García, A., Palomo, I., Codemo, A., Rodeghiero, M., Dubo, T., Vallet, A. and Lavorel, S., 2025. Co-benefits of nature-based solutions exceed the costs of implementation. Cell Reports Sustainability, 2(3).  
+- McKay, S.K., Wenger, S.J., van Rees, C.B., Bledsoe, B.P. and Bridges, T.S., 2023. Jointly advancing infrastructure and biodiversity conservation. Nature Reviews Earth & Environment, pp.1-3.  
+- McPhearson and Diep. 2025. NATURA Global Roadmap for Urban Nature-based Solutions. [Website for download of the regional manuals](https://natura-net.org/products/nbsroadmap).  
 - Nesshöver, C., Assmuth, T., Irvine, K.N., Rusch, G.M., Waylen, K.A., Delbaere, B., Haase, D., Jones-Walters, L., Keune, H., Kovacs, E. and Krauze, K., 2017. The science, policy and practice of nature-based solutions: An interdisciplinary perspective. Science of the total environment, 579, pp.1215-1227.  
-- Palmer, M.A., Bernhardt, E.S., Allan, J.D., Lake, P.S., Alexander, G., Brooks, S., Carr, J., Clayton, S., Dahm, C.N., Follstad Shah, J. and Galat, D.L., 2005. Standards for ecologically successful river restoration. Journal of Applied Ecology, 42(2), pp.208-217.  
-- Palmer, M.A. and Filoso, S., 2009. Restoration of ecosystem services for environmental markets. Science, 325(5940), pp.575-576.
-- van Rees C.B., Hernández-Abrams D.D., Shudtz M., Lammers R., Byers J., Bledsoe B.P., Bilskie M.V., Calabria J., Chambers M., Dolatowski E., Ferreira S., Naslund L., Nelson D.R., Nibbelink N., Suedel B., Tritinger A., Woodson C.B., McKay S.K., and Wenger S.J. 2023. Reimagining infrastructure for a biodiversity future. Proceedings of the National Academy of Sciences, 120 (46), e2214334120, https://doi.org/10.1073/pnas.2214334120. 
+- Pineda-Pinto, M., Kennedy, C., Nulty, F. and Collier, M., 2024. Leverage points for improving urban biodiversity conservation in the Anthropocene: A novel ecosystem lens for social-ecological transformation. Environmental Science & Policy, 162, p.103926.  
+- Reidenbach, M.A., Li, M., Rose, K.A., Tomiczek, T., Morris, J., Palinkas, C.M., Staver, L.W., Nardin, W., Gray, M.W., Lee, S.B. and Sutton-Grier, A.E., 2025. Performance Evaluation of Natural and Nature-Based Features for Coastal Protection and Co-Benefits. Annual Review of Marine Science, 18.  
+- Singhvi, A., Luijendijk, A.P. and van Oudenhoven, A.P., 2022. The grey–green spectrum: A review of coastal protection interventions. Journal of Environmental Management, 311, p.114824.  
+- Stanford, G.O., Ferreira, S., Landry, C.E. and Blachly, B., 2025. Economic valuation of ecosystem services and natural infrastructure: A quantitative review of the literature. Ecosystem Services, 75, p.101754.  
+- Suedel, B.C., Calabria, J., Bilskie, M.V., Byers, J.E., Broich, K., McKay, S.K., Tritinger, A.S., Woodson, C.B. and Dolatowski, E., 2022. Engineering coastal structures to centrally embrace biodiversity. Journal of Environmental Management, 323, p.116138.  
+- van Rees, C.B., Naslund, L., Hernandez-Abrams, D.D., McKay, S.K., Woodson, C.B., Rosemond, A., McFall, B., Altman, S. and Wenger, S.J., 2022. A strategic monitoring approach for learning to improve natural infrastructure. Science of the Total Environment, 832, p.155078.  
+- van Rees, C., Vanburen, C., Altieri, A., Bilskie, M., Byers, J., Calabria, J., Chambers, M., Coleman, D., Chambers, M.L., Foster, K. and Nelson, A.H., Leveraging Ecological Theory to Maximize Biodiversity of Nature-Based Solutions at Landscape Scales.  
+- Wijsman, K., Auyeung, D.S., Brashear, P., Branco, B., Graziano, K., Groffman, P., Cheng, H. and Corbett, D., 2021. Operationalizing resilience: co-creating a framework to monitor hard, natural, and nature-based shoreline features in New York State. Ecology and Society, 26(3).
 
 
 **Copyright Notice**:  
 Some of the documents listed are available for downloading. They are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author’s copyright. These works may not be re-posted without the explicit permission of the copyright holder.
-
-# **Thursday (Oct 23)**
-
-::: columns
-::: {.column width="50%"}
-[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Thursday.pdf)
-
-- 0900 – Convene at parking lot in front of Boyd Graduate Studies Building (inside lobby in case of rain)  
-- 1000-1200 - Whitehall Forest, Dean's pond, and the Middle Oconee River floodplain  
-- 1200-1300 - Lunch break (**bring your own lunch**)  
-- 1300-1500 – Land use history of the Piedmont and the White Dam removal  
-- 1500-1600 - Conceptual modeling exercise  
-- 1600-1630 – Return to campus and adjourn
-
-
-Pertinent resources to learn more about nature-based solutions:  
-
-- [USACE's Engineering with Nature Initiative](https://ewn.erdc.dren.mil/)  
-- [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/)  
-- [Network for Engineering with Nature](https://n-ewn.org/)  
-- [Nature-based solutions for Urban Resilience in the Anthropocene (NATURA) Network](https://natura-net.org/)  
-- [EcoShape](https://www.ecoshape.org/en/)  
-- [Australian manual on flood mitigation](https://iceds.anu.edu.au/news-events/news/nature-based-solutions-flood-mitigation-australia-national-guidelines)
-
-
-Pertinent resources on conceptual models:  
-
-- Fischenich J.C. 2008. The application of conceptual models to ecosystem restoration. ERDC TN-EMRRP-EBA-01. [pdf](https://apps.dtic.mil/sti/pdfs/ADA477865.pdf)  
-- Casper A., Efroymson R., Davis S., Steyer G. and Zettle B. 2010. Improving conceptual model and development: avoiding underperformance due to project uncertainties. ERDC TN-EMRRP-EBA-05. [pdf](https://apps.dtic.mil/sti/tr/pdf/ADA524889.pdf)
-- [University of Maryland's Integration and Application Network (IAN)](http://ian.umces.edu/)  
-:::
-
-::: {.column width="50%"}
-```{r echo=FALSE, fig.cap="White Dam on the Middle Oconee River (Photo: Athens Banner Herald)."}
-knitr::include_graphics("WhiteDam.jpg")
-```
-:::
-:::
-
-# **Friday (Oct 24)**
-
-::: columns
-::: {.column width="50%"}
-[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Friday.pdf)
-
-- 0900 – Convene at parking lot in front of Boyd Graduate Studies Bldg (inside lobby in case of rain).  
-- 0900-1200 – Campus stormwater walk.  
-- 1200-1300 – Lunch on your own in downtown Athens.  
-- 1300-1430 – North Oconee River flood management and Trail Creek chemical spill.  
-- 1430-1515 - Hypothetical exercise identifying criteria for the city's use on natural infrastructure projects.  
-- 1515-1630 – Structured decision making and hypothetical design-making exercise.  
-- 1630-1700 - Vans return to Boyd Graduate Studies Building and adjourn.
-
-Links to pertinent resources:  
-
-- [UGA Campus Architect](https://www.architects.uga.edu/)  
-- [Athens-Clarke County Stormwater Management Program](https://www.accgov.com/stormwater)  
-- [Athens-Clarke County Sustainability Program](https://www.accgov.com/green)  
-:::
-
-::: {.column width="50%"}
-```{r echo=FALSE, fig.cap="UGA campus stormwater walk with Dr. Jon Calabria (Photo: Kyle McKay)."}
-knitr::include_graphics("StormwaterWalk.jpg")
-```
-:::
-:::
-
-# **Saturday (Oct 25)**
-
-::: columns
-::: {.column width="50%"}
-
-[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Saturday.pdf)
-
-- 0900 – Convene at parking lot in front of Boyd Graduate Studies Bldg (inside lobby in case of rain).  
-- 0930 – Arrive at Ben Burton Park.  
-- 930-1200 - Middle Oconee River tour focused on environmental flows, riparian buffers, long-term data collection, and large-river ecology.  
-- 1200-1300 - Lunch break (**bring your own lunch**).  
-- 1300-1630 - Exploration of the Hunnicutt Creek Watershed with your class project team.  
-- 1630-1700 - Vans return to Boyd Graduate Studies Building and adjourn.
-
-Links to pertinent resources:  
-
-- [Upper Oconee Watershed Network](https://uown.org/UOWN-Wordpress/)  
-- [Bibliography of Middle Oconee River Studies](https://skmckay.github.io/MiddleOconee/)  
-- [USGS Structured Decision Making Homepage](https://www.usgs.gov/centers/eesc/science/structured-decision-making#overview)
-
-:::
-
-::: {.column width="50%"}
-```{r echo=FALSE, fig.cap="Middle Oconee River at Ben Burton Park (Photo: Sarah Baugh)."}
-knitr::include_graphics("MiddleOconee.jpg")
-```
-:::
-:::
-
-
-# **Sunday (Oct 26)**
-
-::: columns
-::: {.column width="50%"}
-
-[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Sunday.pdf)
-
-- 0900 – Convene at West entrance to STEM2 (opposite the back of the Ecology Bldg).  
-- 0900-1000 - Team time for final preparations of group presentations.  
-- 1000-1130 – Presentation of class projects (10 minutes per team + questions and answer).  
-- 1130-1200 – Summary and final thoughts.  
-- 1200 – ADJOURN.
-
-:::
-
-::: {.column width="50%"}
-```{r echo=FALSE, fig.cap="Student group projects (Photo: Kyle McKay)."}
-knitr::include_graphics("ClassProject.jpg")
-```
-:::
-:::
 
