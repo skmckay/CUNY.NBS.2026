@@ -17,7 +17,7 @@ Fall Semester 2026
 Tuesdays 4:15-6:15 PM
 
 *Where*:  
-CUNY Grad Center (365 5th Ave)
+CUNY Grad Center (365 5th Ave)  
 Room TBD  
 
 *Instructors*:  
@@ -65,20 +65,20 @@ colnames(schedule) <- c("Date", "Topic", "Reading Materials")
 
 #Specify rows of the table
 schedule[1,] <- c("Sep 1", "Course introduction + Overview of NBS", "Nesshöver et al. (2017), McKay et al. (2023)")
-schedule[2,] <- c("Sep 8", "TBD", "TBD")  
-schedule[3,] <- c("Sep 15", "TBD", "TBD")
-schedule[4,] <- c("Sep 22", "TBD", "TBD")
-schedule[5,] <- c("Sep 29", "TBD", "TBD")
-schedule[6,] <- c("Oct 6", "TBD", "TBD")
+schedule[2,] <- c("Sep 8", "NBS fundamentals", "TBD")  
+schedule[3,] <- c("Sep 15", "NBS fundamentals", "TBD")
+schedule[4,] <- c("Sep 22", "Economics and Finance", "TBD")
+schedule[5,] <- c("Sep 29", "Ecological Outcomes", "TBD")
+schedule[6,] <- c("Oct 6", "Co-benefits", "TBD")
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a")
-schedule[8,] <- c("Oct 20", "TBD", "TBD")
-schedule[9,] <- c("Oct 27", "TBD", "TBD")
-schedule[10,] <- c("Nov 3", "TBD", "TBD")
-schedule[11,] <- c("Nov 10", "TBD", "TBD")
-schedule[12,] <- c("Nov 17", "TBD", "TBD")
-schedule[13,] <- c("Nov 24", "TBD", "TBD")
-schedule[14,] <- c("Dec 1", "TBD", "TBD")
-schedule[15,] <- c("Dec 8", "TBD", "TBD")
+schedule[8,] <- c("Oct 20", "Modeling", "TBD")
+schedule[9,] <- c("Oct 27", "Modeling", "TBD")
+schedule[10,] <- c("Nov 3", "Design", "TBD")
+schedule[11,] <- c("Nov 10", "Design", "TBD")
+schedule[12,] <- c("Nov 17", "Design", "TBD")
+schedule[13,] <- c("Nov 24", "Design", "TBD")
+schedule[14,] <- c("Dec 1", "Monitoring", "TBD")
+schedule[15,] <- c("Dec 8", "Life Cycle Management", "TBD")
 schedule[16,] <- c("Dec 15", "Course synthesis", "TBD")
 
 #Send output table rows into a single matrix
