@@ -71,7 +71,7 @@ schedule <- as.data.frame(matrix(NA, nrow = 7, ncol = 3))
 colnames(schedule) <- c("Date", "Topic", "Potential Reading Materials")
 
 #Specify rows of the table
-schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023)")
+schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023), Heard (2026)")
 schedule[2,] <- c("Sep 8", "NBS fundamentals", "Nesshöver et al. (2017), Cook et al. (2025)")  
 schedule[3,] <- c("Sep 15", "NBS fundamentals", "Singhvi et al. (2022), TBD")
 schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Pathak et al. (2026), TBD")
@@ -114,6 +114,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Esquivel-Muelbert, J.R., Fontoura, L., Zawada, K., Erickson, K., Figueira, W., Madin, J.S. and Bishop, M.J., 2026. The natural architecture of oyster reefs maximizes recruit survival. Nature, pp.1-5.  
 - González-García, A., Palomo, I., Codemo, A., Rodeghiero, M., Dubo, T., Vallet, A. and Lavorel, S., 2025. Co-benefits of nature-based solutions exceed the costs of implementation. Cell Reports Sustainability, 2(3).  
 - Government of the Hong Kong Special Administrative Region. 2026. Hong Kong Nature-based Solutions Design Guidelines. Civil Engineering and Development Department and Agriculture, Fisheries, and Conservation Department. [Downloadable here](https://www.afcd.gov.hk/tc_chi/conservation/Con_hkbsap/bsap_resources_references/files/HKNbSDG.pdf).  
+- Heard S.G. 2026. How to lead a journal club you won’t be embarrassed by later. Scientist Sees Squirrel. https://scientistseessquirrel.wordpress.com/2026/01/13/how-to-lead-a-journal-club-you-wont-be-embarrassed-by-later/.  
 - McKay, S.K., Wenger, S.J., van Rees, C.B., Bledsoe, B.P. and Bridges, T.S., 2023. Jointly advancing infrastructure and biodiversity conservation. Nature Reviews Earth & Environment, pp.1-3.  
 - McPhearson and Diep. 2025. NATURA Global Roadmap for Urban Nature-based Solutions. [Website for download of the regional manuals](https://natura-net.org/products/nbsroadmap).  
 - Nesshöver, C., Assmuth, T., Irvine, K.N., Rusch, G.M., Waylen, K.A., Delbaere, B., Haase, D., Jones-Walters, L., Keune, H., Kovacs, E. and Krauze, K., 2017. The science, policy and practice of nature-based solutions: An interdisciplinary perspective. Science of the total environment, 579, pp.1215-1227.  
