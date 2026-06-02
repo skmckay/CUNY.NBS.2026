@@ -74,17 +74,17 @@ colnames(schedule) <- c("Date", "Topic", "Potential Reading Materials")
 schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023), Heard (2026)")
 schedule[2,] <- c("Sep 8", "NBS fundamentals", "Nesshöver et al. (2017), Cook et al. (2025)")  
 schedule[3,] <- c("Sep 15", "NBS fundamentals", "Singhvi et al. (2022), TBD")
-schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Pathak et al. (2026), TBD")
+schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Pathak et al. (2026), Crawford et al. (2026)")
 schedule[5,] <- c("Sep 29", "Analysis of NBS: Ecological and economic outcomes", "Reidenbach et al. (2025), Stanford et al. (2025)")
 schedule[6,] <- c("Oct 6", "Analysis of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026)")
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a")
 schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Bredes et al. (2024), Esquivel-Muelbert et al. (2026)")
-schedule[9,] <- c("Oct 27", "Analysis of NBS: Cost estimation", "TBD, TBD")
+schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)")
 schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)")
 schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow et al. (2026), TBD")
 schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), TBD")
 schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022)")
-schedule[14,] <- c("Dec 1", "Performance Monitoring", "TBD, TBD")
+schedule[14,] <- c("Dec 1", "Performance Monitoring", "Spurgeon et al. (2026), TBD")
 schedule[15,] <- c("Dec 8", "Life Cycle Management", "TBD, TBD")
 schedule[16,] <- c("Dec 15", "Course synthesis", "none")
 
@@ -105,10 +105,13 @@ A variety of written materials will serve as the primary focal point for the cla
 
 **Potential Resources for Classroom Discussion**:  
 
+- Abera L.E., Surbeck C.Q., and McKay S.K. 2024. Lifecycle cost and benefit analysis for parcel-scale implementation of green stormwater infrastructure. Green Technologies and Sustainability (100139) https://doi.org/10.1016/j.grets.2024.100139.  
 - Annis S., Badas M.G., and Mascaro G. 2026. Increasing the fidelity of hyperlocal simulations of urban pluvial flooding through street flooding observations. Advance in Water Resources.  
 -  Anzelone M. and Silvera Seamans, G. (2025). Oaks, Our City, and Us: A Vision for Nature in New York City. NYC Biodiversity Task Force Report.  
 - Bredes, A., Tso, G., Gittman, R.K., Narayan, S., Tomiczek, T., Miller, J.K. and Morris, R.L., 2024. A 20-year systematic review of wave dissipation by soft and hybrid nature-based solutions (NbS). Ecological Engineering, 209, p.107418.  
+- Chambers M.L., Santiago-Collazo F.L., Lammers R.W., and Bledsoe B.P. 2026. A practitioner-friendly approach to quantifying the hydrologic benefits of city-scale distributed green stormwater infrastructure. Journal of Environmental Management, 409 (130012), https://doi.org/10.1016/j.jenvman.2026.130012.   
 - Cook, E.M., Kim, Y., Grimm, N.B., McPhearson, T., Anderson, P., Bulkeley, H., Collier, M.J., Diep, L., Morató, J. and Zhou, W., 2025. Nature-based solutions for urban sustainability. Proceedings of the National Academy of Sciences, 122(29), p.e2315909122.  
+- Crawford, B.A., Maerz, J.C. and Moore, C.T., 2026. Navigating multiple objectives, partners, and jurisdictions: Decision analysis for range‐wide conservation planning for an at‐risk species. Conservation Science and Practice, p.e70291.  
 - Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. ERDC TR-25-15. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
 - Ding, H., and C. McLaren. 2025. Financial sector guidebook on nature-based solutions investment: Aligning investment with impacts and showcasing examples. Guidebook. Washington, DC: World Resources Institute. Available online at: https://doi.org/10.46830/wrigb.24.00043.  
 - Esquivel-Muelbert, J.R., Fontoura, L., Zawada, K., Erickson, K., Figueira, W., Madin, J.S. and Bishop, M.J., 2026. The natural architecture of oyster reefs maximizes recruit survival. Nature, pp.1-5.  
@@ -124,6 +127,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Reidenbach, M.A., Li, M., Rose, K.A., Tomiczek, T., Morris, J., Palinkas, C.M., Staver, L.W., Nardin, W., Gray, M.W., Lee, S.B. and Sutton-Grier, A.E., 2025. Performance Evaluation of Natural and Nature-Based Features for Coastal Protection and Co-Benefits. Annual Review of Marine Science, 18.  
 - Sadaf, A. and Bruck, J., 2026. Optimizing shoreline suitability models framework: integrating advanced GIS methodologies at Aberdeen Proving Ground, Maryland. Frontiers in Environmental Science, 14, p.1812979.  
 - Singhvi, A., Luijendijk, A.P. and van Oudenhoven, A.P., 2022. The grey–green spectrum: A review of coastal protection interventions. Journal of Environmental Management, 311, p.114824.  
+- Spurgeon, S.L., Shawler, J.L., Smith, K.J., Marrero, L.I.B. and Jackson, S.S., 2026. Coastal nature-based solutions and remote sensing data: Selecting performance metrics and evaluating data availability. Shore & Beach, 94(1), p.28.  
 - Stanford, G.O., Ferreira, S., Landry, C.E. and Blachly, B., 2025. Economic valuation of ecosystem services and natural infrastructure: A quantitative review of the literature. Ecosystem Services, 75, p.101754.  
 - Suedel, B.C., Calabria, J., Bilskie, M.V., Byers, J.E., Broich, K., McKay, S.K., Tritinger, A.S., Woodson, C.B. and Dolatowski, E., 2022. Engineering coastal structures to centrally embrace biodiversity. Journal of Environmental Management, 323, p.116138.  
 - van Rees, C.B., Naslund, L., Hernandez-Abrams, D.D., McKay, S.K., Woodson, C.B., Rosemond, A., McFall, B., Altman, S. and Wenger, S.J., 2022. A strategic monitoring approach for learning to improve natural infrastructure. Science of the Total Environment, 832, p.155078.  
