@@ -82,15 +82,15 @@ schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Bredes 
 schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)")
 schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)")
 schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD")
-schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), TBD")
+schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)")
 schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022)")
 schedule[14,] <- c("Dec 1", "Performance Monitoring", "Chrysoulakis et al. (2021), Spurgeon et al. (2026)")
-schedule[15,] <- c("Dec 8", "Life Cycle Management", "TBD, TBD")
+schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)")
 schedule[16,] <- c("Dec 15", "Course synthesis", "Collective class project report")
 
 #Send output table rows into a single matrix
 rownames(schedule) <- NULL
-knitr::kable(schedule, caption="Approximate course schedule (subject to change).", align="c") 
+knitr::kable(schedule, caption="Approximate course schedule (subject to change).", align="cll") 
 ```
 
 # **Course Materials**
@@ -125,6 +125,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Ibrahim, A., Marshall, K., Carmen, E., Blackstock, K.L. and Waylen, K.A., 2025. Raising standards for stakeholder engagement in Nature-based Solutions: Navigating the why, when, who and how. Environmental Science & Policy, 163, p.103971.  
 - McKay, S.K., Wenger, S.J., van Rees, C.B., Bledsoe, B.P. and Bridges, T.S., 2023. Jointly advancing infrastructure and biodiversity conservation. Nature Reviews Earth & Environment, pp.1-3.  
 - McPhearson and Diep. 2025. NATURA Global Roadmap for Urban Nature-based Solutions. [Website for download of the regional manuals](https://natura-net.org/products/nbsroadmap).  
+- Natural Assets Initiative. 2024. Natural is infrastructure: How to include natural assets in asset management plans. A guidebook for local governments. [Natural Assets Initiative](https://naturalassetsinitiative.ca/documents/nature-is-infrastructure-how-to-include-natural-assets-in-asset-management-plans/).  
 - Nesshöver, C., Assmuth, T., Irvine, K.N., Rusch, G.M., Waylen, K.A., Delbaere, B., Haase, D., Jones-Walters, L., Keune, H., Kovacs, E. and Krauze, K., 2017. The science, policy and practice of nature-based solutions: An interdisciplinary perspective. Science of the total environment, 579, pp.1215-1227.  
 - Ostrow, K.S. and Cox, D.T., 2026. Performance-Based Design Methodology for Nature-Based Solutions: Using Mangroves to Mitigate Wave Overtopping. ASCE OPEN: Multidisciplinary Journal of Civil Engineering, 4(1), p.04026006.  
 - Pathak A., Del Angel D.C., and Hale C. 2026. Co-developing nature-based solutions for coastal resilience: A case study from Refugio County, Texas. Estuaries and Coasts, 49, 31.  
@@ -138,6 +139,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Suedel, B.C., Calabria, J., Bilskie, M.V., Byers, J.E., Broich, K., McKay, S.K., Tritinger, A.S., Woodson, C.B. and Dolatowski, E., 2022. Engineering coastal structures to centrally embrace biodiversity. Journal of Environmental Management, 323, p.116138.  
 - van Rees, C.B., Naslund, L., Hernandez-Abrams, D.D., McKay, S.K., Woodson, C.B., Rosemond, A., McFall, B., Altman, S. and Wenger, S.J., 2022. A strategic monitoring approach for learning to improve natural infrastructure. Science of the Total Environment, 832, p.155078.  
 - van Rees, C., Vanburen, C., Altieri, A., Bilskie, M., Byers, J., Calabria, J., Chambers, M., Coleman, D., Chambers, M.L., Foster, K. and Nelson, A.H., Leveraging Ecological Theory to Maximize Biodiversity of Nature-Based Solutions at Landscape Scales.  
+- Webb B., Dix B., Douglass S., Asam S., Cherry C., and Buhring B. 2019. Nature-based solutions for coastal highway resilience: An implementation guide. FHWA-HEP-19-042. Federal Highway Administration, Washington, DC.  
 - Wijsman, K., Auyeung, D.S., Brashear, P., Branco, B., Graziano, K., Groffman, P., Cheng, H. and Corbett, D., 2021. Operationalizing resilience: co-creating a framework to monitor hard, natural, and nature-based shoreline features in New York State. Ecology and Society, 26(3).
 
 
