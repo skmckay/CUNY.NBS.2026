@@ -83,7 +83,7 @@ schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera e
 schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)")
 schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD")
 schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)")
-schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022)")
+schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022), Wolff et al. (2026)")
 schedule[14,] <- c("Dec 1", "Performance Monitoring", "Chrysoulakis et al. (2021), Spurgeon et al. (2026)")
 schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)")
 schedule[16,] <- c("Dec 15", "Course synthesis", "Collective class project report")
@@ -140,7 +140,8 @@ A variety of written materials will serve as the primary focal point for the cla
 - van Rees, C.B., Naslund, L., Hernandez-Abrams, D.D., McKay, S.K., Woodson, C.B., Rosemond, A., McFall, B., Altman, S. and Wenger, S.J., 2022. A strategic monitoring approach for learning to improve natural infrastructure. Science of the Total Environment, 832, p.155078.  
 - van Rees, C., Vanburen, C., Altieri, A., Bilskie, M., Byers, J., Calabria, J., Chambers, M., Coleman, D., Chambers, M.L., Foster, K. and Nelson, A.H., Leveraging Ecological Theory to Maximize Biodiversity of Nature-Based Solutions at Landscape Scales.  
 - Webb B., Dix B., Douglass S., Asam S., Cherry C., and Buhring B. 2019. Nature-based solutions for coastal highway resilience: An implementation guide. FHWA-HEP-19-042. Federal Highway Administration, Washington, DC.  
-- Wijsman, K., Auyeung, D.S., Brashear, P., Branco, B., Graziano, K., Groffman, P., Cheng, H. and Corbett, D., 2021. Operationalizing resilience: co-creating a framework to monitor hard, natural, and nature-based shoreline features in New York State. Ecology and Society, 26(3).
+- Wijsman, K., Auyeung, D.S., Brashear, P., Branco, B., Graziano, K., Groffman, P., Cheng, H. and Corbett, D., 2021. Operationalizing resilience: co-creating a framework to monitor hard, natural, and nature-based shoreline features in New York State. Ecology and Society, 26(3).  
+- Wolff, E., Hamel, P., Lechner, A.M., Irvine, K., Frantzeskaki, N., Diep, L., Tavenisa, L., Welch, A., Cajilig, P.G., Sen, M. and Pottinger-Glass, C., 2026. Monitoring nature-based solutions is key for compliance, co-creation and practice improvement. Nature Sustainability, pp.1-10.
 
 
 **Copyright Notice**:  
