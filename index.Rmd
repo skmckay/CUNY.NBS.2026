@@ -18,7 +18,7 @@ Tuesdays 4:15-6:15 PM
 
 *Where*:  
 CUNY Grad Center (365 5th Ave)  
-Room TBD  
+Room 4439  
 
 *Instructors*:  
 Dr. Brett Branco, Director, [Science and Resilience Institute at Jamaica Bay](https://srijb.org/), Brooklyn College  
@@ -37,9 +37,9 @@ Nature-based solutions are a spectrum of actions from more to less naturalized (
 
 # **Course Overview**
 
-Download the syllabus (**coming in Summer 2026**).
+[Download the syllabus](CUNY_NBS_Seminar_2026-09-01.pdf)
 
-This seminar-based course will explore the growing use of nature-based solutions for coastal management, which are often proposed in the context of simultaneously managing multiple crises related to biodiversity loss, climate change, aging infrastructure, and inequity of natural hazards. Students will explore these topics through reading peer-reviewed literature, agency and project reports, and other resources on the subject. The instructors will guide the class through a critical examination of NBS, their efficacy for accomplishing societal goals, challenges in project execution, and scientific uncertainties. When possible, discussions will include practicing professionals, who can provide insights on career trajectories, personal experiences, and disciplinary expertise. This interdisciplinary-oriented course is intended for students from multiple disciplines including environmental sciences, physical sciences, ecology, environmental design, natural resources, marine sciences, anthropology, economics, engineering, and other relevant and related fields. Upon completion of this course, students will be able to:
+This seminar-based course will explore the growing use of nature-based solutions for coastal management, which are often proposed in the context of simultaneously managing multiple crises related to biodiversity loss, climate change, aging infrastructure, and inequity of natural hazards. Students will explore these topics through reading peer-reviewed literature, agency and project reports, and other resources on the subject. The instructors will guide the class through a critical examination of NBS, their efficacy for accomplishing societal goals, challenges in project execution, and scientific uncertainties. When possible, discussions will include practicing professionals, who can provide insights on career trajectories, personal experiences, and disciplinary expertise. This interdisciplinary course is intended for students from multiple disciplines including environmental sciences, physical sciences, ecology, environmental design, natural resources, marine sciences, anthropology, economics, engineering, and other relevant and related fields. Upon completion of this course, students will be able to:
 
 - Define and describe nature-based solutions for addressing coastal challenges.  
 - Understand the role of both ecological and built systems for water management.  
@@ -54,39 +54,71 @@ The course will emphasize three primary teach modalities: Socratic inquiry, fiel
 Discussion and Socratic inquiry will be the primary teaching structure in the classroom, and each week will have roughly the following format.  
 
 - Before class each week, students will read 2-3 assigned papers or reports on a focal subject related to nature-based solutions.  
-- A brief student-led presentation each week on a topic of their interest related to nature-based solutions (e.g., connections to their research, a case study of interest, a bio of an NBS figure that interests you, a career trajectory related to NBS, etc.).  
-- Students will lead and participate in a discussion of the assigned reading.  
+- The instructors will present a brief lecture to contextualize reading materials.
 - Instructors will present on a current event related to NBS. These may include case studies, ongoing research briefs, visitors from other institutions, and/or important happenings in the field.  
-- The instructors will present a brief lecture to contextualize reading materials for the next week.
-
+- Students will lead and participate in a discussion of the assigned reading.  
 
 At least once in the semester, participants will attend a field trip to see projects in the New York City area. This field-based experience will contextualize how NBS are executed under site-specific constraints. 
 
-Over the course of the semester, students will choose a topic to develop into a class project. The project will be formated as a "trace-able account" that synthesizes the current state-of-knowledge about a specific aspect of NBS practice.
+During the semester, students will contribute to a “state of the art” summary document focused on coastal natural and nature-based features. The document will be modeled after the format of climate assessments, which often include a set of key messages on topics with a “traceable account” supporting the key messages.  In this context, a traceable account provides the rationale for the key message, including the literature supporting it. Here, we can use a format fashioned after the NYS Climate Assessment:
+https://nysclimateimpacts.org/about-the-assessment/methods-and-sources/ 
+
+Key findings represent important takeaways identified by the student teams. Key findings generally focus not only on problems but also impacts, responses, and solutions. They attempt to convey:  
+
+- The “What?” Current challenges, circumstances, facts, observations, and projections.  
+- The “So what?” The implications and meaning, including underlying assumptions.  
+- The “Now what?” Potential actions, trade-offs, and resources needed to address the challenges, as well as knowledge gaps.
+
+Traceable accounts provide supporting evidence for each of the key findings. They describe supporting information and the level of confidence in each finding, allowing interested readers to “trace” the rationale and information sources used to develop each finding. Traceable accounts must include:  
+
+- The evidence that supports each key finding, including references and sources  
+- The quality of the evidence  
+- The level of agreement in the literature  
+- Key uncertainties
+
+Potential topics for the “state of the art” document for nature-based solutions are below. Each topic would include 3-5 key messages, with 1-2 paragraphs in the traceable account for each key message.  
+
+- Qualitative foundations of project planning: systems context, primary and secondary design objectives, risk tolerance  
+- Facilitation, engagement, and teaming: interdisciplinary dialog, ways of knowing, ladder of participation, facilitation, co-production methods  
+- Ecological analysis of NBS: levels of effort, project outcomes  
+- Economic analysis of NBS: levels of effort, project outcomes  
+- Co-benefits analysis of NBS: levels of effort, project outcomes  
+- Engineering analysis of NBS: performance, resilience, cost  
+- Alternatives analysis: structured decision making, management measures, alternative development, decision support, trade-off analysis  
+- Performance-based design: iterative workflows, integrated modeling, hazard resilience and reliability, adaptability  
+- Constructability: material selection, regulatory requirements, developing specifications, construction oversight  
+- Performance monitoring: outcomes, performance, cost  
+- Project establishment: adaptive management, transition to operations  
+- Asset management: condition tracking, operations, maintenance, repair, rehabilitation, decommissioning, life cycle budgeting
+
+
+# **Course Schedule**
+
+The tentative schedule for the semester includes the following, all of which is subject to change by the instructors. 
 
 
 ```{r echo=FALSE}
 #Create empty table
-schedule <- as.data.frame(matrix(NA, nrow = 7, ncol = 4))
-colnames(schedule) <- c("Date", "Topic", "Potential Reading Materials", "Notes")
+schedule <- as.data.frame(matrix(NA, nrow = 7, ncol = 5))
+colnames(schedule) <- c("Date", "Topic", "Reading Materials", "Notes", "Lecture")
 
 #Specify rows of the table
-schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023), Heard (2026)", "")
-schedule[2,] <- c("Sep 8", "NBS fundamentals", "Nesshöver et al. (2017), Cook et al. (2025), Hall and van Rees (2026)", "")  
-schedule[3,] <- c("Sep 15", "NBS fundamentals", "Cohen-Shacham et al. (2019), Singhvi et al. (2022), Silliman et al. (2026)", "Classroom Visitor")
-schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Ibrahim et al. (2025), Pathak et al. (2026), Crawford et al. (2026)", "McKay absent")
-schedule[5,] <- c("Sep 29", "Analysis of NBS: Ecological and economic outcomes", "Feagin et al. (2021), Reidenbach et al. (2025), Stanford et al. (2025)", "")
-schedule[6,] <- c("Oct 6", "Analysis of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026)", "Branco absent")
-schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "")
-schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Classroom Visitor")
-schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "")
-schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)", "Classroom Visitor")
-schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD", "")
-schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)", "")
-schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022), Wolff et al. (2026)", "")
-schedule[14,] <- c("Dec 1", "Performance Monitoring", "Chrysoulakis et al. (2021), Spurgeon et al. (2026)", "Classroom Visitor")
-schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)", "")
-schedule[16,] <- c("Dec 15", "Course synthesis", "Collective class project report", "")
+schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023), Drake (2026), Heard (2026)", "", "pdf")
+schedule[2,] <- c("Sep 8", "NBS fundamentals", "Nesshöver et al. (2017), Cook et al. (2025), Hall and van Rees (2026)", "", "")  
+schedule[3,] <- c("Sep 15", "NBS fundamentals", "Cohen-Shacham et al. (2019), Singhvi et al. (2022), Silliman et al. (2026)", "Classroom Visitor", "")
+schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Ibrahim et al. (2025), Pathak et al. (2026), Crawford et al. (2026)", "McKay absent", "")
+schedule[5,] <- c("Sep 29", "Analysis of NBS: Ecological and economic outcomes", "Feagin et al. (2021), Reidenbach et al. (2025), Stanford et al. (2025)", "", "")
+schedule[6,] <- c("Oct 6", "Analysis of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026)", "Branco absent", "")
+schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "", "")
+schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Classroom Visitor", "")
+schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "", "")
+schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)", "Classroom Visitor", "")
+schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD", "", "")
+schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)", "", "")
+schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022), Wolff et al. (2026)", "", "")
+schedule[14,] <- c("Dec 1", "Performance Monitoring", "Chrysoulakis et al. (2021), Spurgeon et al. (2026)", "Classroom Visitor (Loan Diep)", "")
+schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)", "", "")
+schedule[16,] <- c("Dec 15", "Course synthesis", "Collective class project report", "", "")
 
 #Send output table rows into a single matrix
 rownames(schedule) <- NULL
@@ -116,6 +148,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Crawford, B.A., Maerz, J.C. and Moore, C.T., 2026. Navigating multiple objectives, partners, and jurisdictions: Decision analysis for range‐wide conservation planning for an at‐risk species. Conservation Science and Practice, p.e70291.  
 - Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. ERDC TR-25-15. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
 - Ding, H., and C. McLaren. 2025. Financial sector guidebook on nature-based solutions investment: Aligning investment with impacts and showcasing examples. Guidebook. Washington, DC: World Resources Institute. Available online at: https://doi.org/10.46830/wrigb.24.00043.  
+- Drake J.M. 2026. Three rules for leading a paper discussion. BioScience , 2026, biag112 https://doi.org/10.1093/biosci/biag112.  
 - Esquivel-Muelbert, J.R., Fontoura, L., Zawada, K., Erickson, K., Figueira, W., Madin, J.S. and Bishop, M.J., 2026. The natural architecture of oyster reefs maximizes recruit survival. Nature, pp.1-5.  
 - Feagin, R.A., Bridges, T.S., Bledsoe, B., Losos, E., Ferreira, S., Corwin, E., Lodder, Q., Beck, M.W., Reguero, B., Sutton-Grier, A. and Figlus, J., 2021. Infrastructure investment must incorporate Nature’s lessons in a rapidly changing world. One Earth, 4(10), pp.1361-1364.  
 - González-García, A., Palomo, I., Codemo, A., Rodeghiero, M., Dubo, T., Vallet, A. and Lavorel, S., 2025. Co-benefits of nature-based solutions exceed the costs of implementation. Cell Reports Sustainability, 2(3).  
