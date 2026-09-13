@@ -110,7 +110,7 @@ schedule[4,] <- c("Sep 22", "Structured decision making and community engagement
 schedule[5,] <- c("Sep 29", "Analysis of NBS: Ecological and economic outcomes", "Feagin et al. (2021), Reidenbach et al. (2025), Stanford et al. (2025)", "", "")
 schedule[6,] <- c("Oct 6", "Analysis of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026)", "Branco absent", "")
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "", "")
-schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Classroom Visitor", "")
+schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Corwin et al. (2026), Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Classroom Visitor", "")
 schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "", "")
 schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)", "Classroom Visitor", "")
 schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD", "", "")
@@ -145,6 +145,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Chrysoulakis, N., Somarakis, G., Stagakis, S., Mitraka, Z., Wong, M.S. and Ho, H.C., 2021. Monitoring and evaluating nature-based solutions implementation in urban areas by means of earth observation. Remote Sensing, 13(8), p.1503.  
 - Cohen-Shacham, E., Andrade, A., Dalton, J., Dudley, N., Jones, M., Kumar, C., Maginnis, S., Maynard, S., Nelson, C.R., Renaud, F.G. and Welling, R., 2019. Core principles for successfully implementing and upscaling Nature-based Solutions. Environmental Science & Policy, 98, pp.20-29.  
 - Cook, E.M., Kim, Y., Grimm, N.B., McPhearson, T., Anderson, P., Bulkeley, H., Collier, M.J., Diep, L., Morató, J. and Zhou, W., 2025. Nature-based solutions for urban sustainability. Proceedings of the National Academy of Sciences, 122(29), p.e2315909122.  
+- Corwin, E., Reguero, B.G., McKay, S.K., Piercy, C.D., Pontee, N.I., Tomiczek, T., Jameson, T., Narayan, S., Sridharan, V.K. and Bledsoe, B.P., 2026. Nature-Based Design Standards: Past, Present, and Future. ASCE OPEN: Multidisciplinary Journal of Civil Engineering, 4(1), p.04026002.  
 - Crawford, B.A., Maerz, J.C. and Moore, C.T., 2026. Navigating multiple objectives, partners, and jurisdictions: Decision analysis for range‐wide conservation planning for an at‐risk species. Conservation Science and Practice, p.e70291.  
 - Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. ERDC TR-25-15. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
 - Ding, H., and C. McLaren. 2025. Financial sector guidebook on nature-based solutions investment: Aligning investment with impacts and showcasing examples. Guidebook. Washington, DC: World Resources Institute. Available online at: https://doi.org/10.46830/wrigb.24.00043.  
