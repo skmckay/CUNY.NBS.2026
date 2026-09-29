@@ -106,14 +106,14 @@ colnames(schedule) <- c("Date", "Topic", "Reading Materials", "Notes", "Lecture"
 schedule[1,] <- c("Sep 1", "Course introduction + Skills for reading scientific literature", "McKay et al. (2023), Drake (2026), Heard (2026)", "", "[Week01](docs/2026-09-01_CUNY_NBS_Course_Intro.pdf)")
 schedule[2,] <- c("Sep 8", "NBS fundamentals", "Nesshöver et al. (2017), Cook et al. (2025), Hall and van Rees (2026)", "", "[Week02](docs/2026-09-08_CUNY_NBS_Foundations.pdf)")  
 schedule[3,] <- c("Sep 15", "NBS fundamentals", "Cohen-Shacham et al. (2019), Singhvi et al. (2022), Silliman et al. (2026)", "", "[Week03](docs/2026-09-15_CUNY_NBS_Foundations.pdf)")
-schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Ibrahim et al. (2025), Pathak et al. (2026), Crawford et al. (2026)", "McKay absent", "")
-schedule[5,] <- c("Sep 29", "Analysis of NBS: Ecological and economic outcomes", "Feagin et al. (2021), Reidenbach et al. (2025), Stanford et al. (2025)", "", "")
-schedule[6,] <- c("Oct 6", "Analysis of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026)", "Branco absent", "")
+schedule[4,] <- c("Sep 22", "Structured decision making and community engagement", "Ibrahim et al. (2025), Pathak et al. (2026), Crawford et al. (2026)", "McKay absent", "[Week04](docs/2026-09-22_CUNY_NBS_Engagement.pdf)")
+schedule[5,] <- c("Sep 29", "Assessment of NBS: Ecological and economic outcomes", "Feagin et al. (2021), Reidenbach et al. (2025), Stanford et al. (2025)", "", "")
+schedule[6,] <- c("Oct 6", "Assessment of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026), Chrysoulakis et al. (2021)", "Branco absent", "")
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "", "")
-schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Corwin et al. (2026), Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Classroom Visitor", "")
-schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "", "")
-schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)", "Classroom Visitor", "")
-schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), TBD", "", "")
+schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Corwin et al. (2026), Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "", "")
+schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "Classroom Visitor (Amy Bredes)", "")
+schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026), Nash et al. (forthcoming)", "", "")
+schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), Godsey et al. (2026)", "", "")
 schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)", "", "")
 schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022), Wolff et al. (2026)", "", "")
 schedule[14,] <- c("Dec 1", "Performance Monitoring", "Chrysoulakis et al. (2021), Spurgeon et al. (2026)", "Classroom Visitor (Loan Diep)", "")
@@ -152,6 +152,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - Drake J.M. 2026. Three rules for leading a paper discussion. BioScience , 2026, biag112 https://doi.org/10.1093/biosci/biag112.  
 - Esquivel-Muelbert, J.R., Fontoura, L., Zawada, K., Erickson, K., Figueira, W., Madin, J.S. and Bishop, M.J., 2026. The natural architecture of oyster reefs maximizes recruit survival. Nature, pp.1-5.  
 - Feagin, R.A., Bridges, T.S., Bledsoe, B., Losos, E., Ferreira, S., Corwin, E., Lodder, Q., Beck, M.W., Reguero, B., Sutton-Grier, A. and Figlus, J., 2021. Infrastructure investment must incorporate Nature’s lessons in a rapidly changing world. One Earth, 4(10), pp.1361-1364.  
+- Godsey, E.S., Everett, C.L., Tritinger, A.S., Bryant, D.B., Altman, S., Sowers, A.A., Bassetti, L., Bruck, J. and Bonura, C., 2026. Engineering practice guide for oyster reefs: a natural infrastructure approach for coastal systems.  
 - González-García, A., Palomo, I., Codemo, A., Rodeghiero, M., Dubo, T., Vallet, A. and Lavorel, S., 2025. Co-benefits of nature-based solutions exceed the costs of implementation. Cell Reports Sustainability, 2(3).  
 - Government of the Hong Kong Special Administrative Region. 2026. Hong Kong Nature-based Solutions Design Guidelines. Civil Engineering and Development Department and Agriculture, Fisheries, and Conservation Department. [Downloadable here](https://www.afcd.gov.hk/tc_chi/conservation/Con_hkbsap/bsap_resources_references/files/HKNbSDG.pdf).  
 - Hall, D.M. and van Rees, C.B., 2026. Implementing nature-based solutions requires distinguishing place from space. Ambio, pp.1-18.  
