@@ -111,7 +111,7 @@ schedule[5,] <- c("Sep 29", "Assessment of NBS: Ecological and economic outcomes
 schedule[6,] <- c("Oct 6", "Assessment of NBS: Co-benefits", "González-García et al. (2025), Sadaf and Bruck (2026), Chrysoulakis et al. (2021)", "", "[Week06](docs/2026-10-06_CUNY_NBS_Assessment.pdf)")
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "", "")
 schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Corwin et al. (2026), Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Branco absent", "")
-schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Chambers et al. (2026)", "McKay absent", "")
+schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Webber et al. (2025), Chambers et al. (2026)", "McKay absent", "")
 schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026)", "Visitor (Amy Bredes)", "")
 schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), Godsey et al. (2026)", "Visitors (Anna Hochhalter and Nicole Del Monaco)", "")
 schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)", "", "")
@@ -175,6 +175,7 @@ A variety of written materials will serve as the primary focal point for the cla
 - van Rees, C.B., Naslund, L., Hernandez-Abrams, D.D., McKay, S.K., Woodson, C.B., Rosemond, A., McFall, B., Altman, S. and Wenger, S.J., 2022. A strategic monitoring approach for learning to improve natural infrastructure. Science of the Total Environment, 832, p.155078.  
 - van Rees, C., Vanburen, C., Altieri, A., Bilskie, M., Byers, J., Calabria, J., Chambers, M., Coleman, D., Chambers, M.L., Foster, K. and Nelson, A.H., Leveraging Ecological Theory to Maximize Biodiversity of Nature-Based Solutions at Landscape Scales.  
 - Webb B., Dix B., Douglass S., Asam S., Cherry C., and Buhring B. 2019. Nature-based solutions for coastal highway resilience: An implementation guide. FHWA-HEP-19-042. Federal Highway Administration, Washington, DC.  
+- Webber, M.K., Mei, L. and Samaras, C., 2025. Bridging the gap: riverine nature-based solutions for climate resilient transportation infrastructure in the United States. npj Urban Sustainability, 5(1), p.28.  
 - Wijsman, K., Auyeung, D.S., Brashear, P., Branco, B., Graziano, K., Groffman, P., Cheng, H. and Corbett, D., 2021. Operationalizing resilience: co-creating a framework to monitor hard, natural, and nature-based shoreline features in New York State. Ecology and Society, 26(3).  
 - Wolff, E., Hamel, P., Lechner, A.M., Irvine, K., Frantzeskaki, N., Diep, L., Tavenisa, L., Welch, A., Cajilig, P.G., Sen, M. and Pottinger-Glass, C., 2026. Monitoring nature-based solutions is key for compliance, co-creation and practice improvement. Nature Sustainability, pp.1-10.
 
