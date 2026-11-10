@@ -112,12 +112,12 @@ schedule[6,] <- c("Oct 6", "Assessment of NBS: Co-benefits", "González-García 
 schedule[7,] <- c("Oct 13", "NO CLASS", "n/a", "", "")
 schedule[8,] <- c("Oct 20", "Analysis of NBS: Engineering performance", "Corwin et al. (2026), Bredes et al. (2024), Esquivel-Muelbert et al. (2026)", "Branco absent", "[Week07](docs/2026-10-20_CUNY_NBS_EngrAnalysis1.pdf)")
 schedule[9,] <- c("Oct 27", "Analysis of NBS: Engineering performance", "Abera et al. (2024), Webber et al. (2025), Chambers et al. (2026)", "McKay absent", "")
-schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026)", "Visitor (Amy Bredes)", "")
-schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), Godsey et al. (2026)", "Visitors (Anna Hochhalter and Nicole Del Monaco)", "")
-schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Curran et al. (2025), Webb et al. (2019, Ch6 and Ch7)", "", "")
-schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022), Wolff et al. (2026)", "", "")
-schedule[14,] <- c("Dec 1", "Performance Monitoring", "TBD, Spurgeon et al. (2026)", "Visitor (Loan Diep)", "")
-schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)", "", "")
+schedule[10,] <- c("Nov 3", "Design: Alternatives analysis", "Hong Kong Nature-based Solutions Design Guidelines (2026)", "Visitor (Amy Bredes)", "[Week09](docs/2026-11-03_CUNY_NBS_Design.pdf)")
+schedule[11,] <- c("Nov 10", "Design: Performance-based design", "Ostrow and Cox (2026), Godsey et al. (2026)", "Visitors (Anna Hochhalter and Nicole Del Monaco)", "[Week10](docs/2026-11-10_CUNY_NBS_Design.pdf)")
+schedule[12,] <- c("Nov 17", "Design: Constructability and implementation", "Webb et al. (2019, Ch6 and Ch7)", "Draft projects due", "")
+schedule[13,] <- c("Nov 24", "Performance Monitoring", "Wijsman et al. (2021), van Rees et al. (2022)", "Friendly review of class projects", "")
+schedule[14,] <- c("Dec 1", "Performance Monitoring", "Wolff et al. (2026), Spurgeon et al. (2026)", "Visitor (Loan Diep)", "")
+schedule[15,] <- c("Dec 8", "Life Cycle Management", "Natural Assets Initiative (2024)", "Final projects due", "")
 schedule[16,] <- c("Dec 15", "Course synthesis", "Collective class project report", "", "")
 
 #Send output table rows into a single matrix
